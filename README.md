@@ -12,4 +12,4 @@ I have started my Python Full Stack Development journey at Tap Academy and will 
 To become a Python Full Stack Developer and build real-world projects.
 ## Daily Progress
 - Day 1: Variables and Data Types
-- Day 2: Basic Calculations and HTML Notes
+- Day 2: Basic Calculations to problems sloving and HTML Notes
