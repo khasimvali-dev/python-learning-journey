@@ -1,0 +1,40 @@
+<html>
+<body>
+
+<h1>Day 14 Learning Journey</h1>
+
+<h2>Learning Activities</h2>
+
+<ul>
+<li>Revised For Loop and While Loop concepts</li>
+<li>Practiced Factors of a Number problems</li>
+<li>Learned the logic behind Prime Numbers</li>
+<li>Practiced checking whether a number is Prime or Not Prime</li>
+<li>Solved Prime Numbers Up To N problems</li>
+<li>Practiced printing First N Prime Numbers</li>
+<li>Understood factor counting logic using count variable</li>
+<li>Learned the difference between code inside and outside loops</li>
+<li>Improved code tracing and logical thinking skills</li>
+<li>Strengthened programming fundamentals through problem solving</li>
+</ul>
+
+<h2>Topics Covered</h2>
+
+<ul>
+<li>For Loop</li>
+<li>While Loop</li>
+<li>Factors of a Number</li>
+<li>Prime Numbers</li>
+<li>Prime Numbers Up To N</li>
+<li>First N Prime Numbers</li>
+<li>Problem Solving Logic</li>
+</ul>
+
+<h2>Progress Summary</h2>
+
+<p>
+Today I focused on understanding the logic behind prime number problems and factor-based questions. I practiced writing programs using loops, understood how count variables work, and learned how to print prime numbers up to N and the first N prime numbers. I also improved my understanding of loop execution and program flow.
+</p>
+
+</body>
+</html>
